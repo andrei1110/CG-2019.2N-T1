@@ -1,1 +1,5 @@
-# CG-2019.2N-T1
+# Trabalho de computação gráfica
+
+Nome: Andrei Toledo
+
+Matrícula: 1011100003
